@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TP14</string>
+    <string name="add">Ajouter</string>
+    <string name="account_number">Compte Num</string>
+    <string name="balance_dh">1000.0 DH</string>
+    <string name="courant">COURANT</string>
+    <string name="creation_date">01/01/2023</string>
+    <string name="edit">Modifier</string>
+    <string name="delete">Supprimer</string>
+    <string name="balance">Solde</string>
+    <string name="epargne">EPARGNE</string>
+</resources>
